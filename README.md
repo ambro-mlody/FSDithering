@@ -1,2 +1,2 @@
 # FSDithering
-Not really working yet
+Working
